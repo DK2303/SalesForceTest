@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<menu>
+	<sfurl>https://login.salesforce.com/</sfurl>
+	<sfexpTitle>Login | Salesforce</sfexpTitle>
+	<sfusername>dinesh2303@gmail.com</sfusername>
+	<sfpassword>Dinesh123</sfpassword>
+	<appName>OfficeHelp Lightning</appName>
+	
+</menu>
